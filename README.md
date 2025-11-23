@@ -1,2 +1,2 @@
 # Algino 
-Betting + prediction app
+Betting + prediction markets
