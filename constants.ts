@@ -11,7 +11,7 @@ export const MOCK_USERS: Record<string, User> = {
 
 export const MOCK_GROUPS: Group[] = [
   { id: 'g1', name: 'Poker Night Crew', description: 'Weekly Texas Holdem predictions and debts.', memberCount: 4, imageUrl: 'https://picsum.photos/seed/poker/400/400' },
-  { id: 'g2', name: 'Startup Founders', description: 'Who ships first? Who raises first?', memberCount: 12, imageUrl: 'https://picsum.photos/seed/startup/400/400' },
+  { id: 'g2', name: 'Premier League Fans', description: 'Match predictions and fantasy league banter.', memberCount: 12, imageUrl: 'https://picsum.photos/seed/football_fans/400/400' },
   { id: 'g3', name: 'Sunday League', description: 'Betting on our own terrible soccer matches.', memberCount: 18, imageUrl: 'https://picsum.photos/seed/soccer/400/400' },
 ];
 
